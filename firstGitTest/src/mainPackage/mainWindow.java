@@ -39,6 +39,6 @@ public class mainWindow extends JFrame{
 	
 	public void paint(Graphics g){
 		g.drawString("This is gonna be awesome", resWidth/2, resHeigth/2);
-		g.drawString("It sure will!", resWidth/2, resHeight/2);
+		g.drawString("It is awesome!", resWidth/2, resHeight/2);
 	}
 }
